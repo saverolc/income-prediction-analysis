@@ -1,1 +1,3 @@
-# income-prediction-analysis
+# Income-prediction-analysis
+
+This is a group project that I submitted for my Introduction to Data Science Class at the University of British Columbia. In this project, we implemented KNN nearest neighbor classification algorithm to determine if a person's annual income exceeds USD 50K based on several numerical parameters, such as weekly working hours, age, capital gain, and capital loss. Despite the uneven number of samples, i.e. the number of individuals of income less than USD 50K per year outnumbered those of income more than USD 50K per year, our model still yields an accuracy of 81.5%. Additionally, we also explored how annual income was affected by each parameter we used as a predictor. 
